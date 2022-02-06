@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TCPClient.Program">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPClient.SessionWithServer">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAIAAAAAAAAAkAAEAAAAAAAAAAAAAAABAAAEAI=</HashCode>
+      <FileName>SessionWithServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPClient.DNSHeader" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAhEAAIAgIQAAAAAAAAAAAAAAIABAAAAAIAAAA=</HashCode>
+      <FileName>Sniffer\DNSHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPClient.IPHeader">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAJAADBQCIEEAEAwBAQggAAQAAADAAAAAgAMAAAAQ=</HashCode>
+      <FileName>Sniffer\IPHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPClient.Sniffer">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAACAAQAIEAAAAAAAAAQAAMBAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Sniffer\Sniffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPClient.TCPHeader">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAoAAAAAAAAMEAjEAggAAUCEABAAEAAEIAAAAAA=</HashCode>
+      <FileName>Sniffer\TCPHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPClient.UDPHeader">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAAAAAAAAAAACEAgBAAUCAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sniffer\UDPHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TCPClient.Protocol">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Sniffer\Sniffer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>

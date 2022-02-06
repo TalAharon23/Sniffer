@@ -1,0 +1,9 @@
+H:\וייצמן\Sniffer\mySniffer\mySniffer\bin\Debug\mySniffer.exe
+H:\וייצמן\Sniffer\mySniffer\mySniffer\bin\Debug\mySniffer.pdb
+H:\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.Form1.resources
+H:\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.Properties.Resources.resources
+H:\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.csproj.GenerateResource.Cache
+H:\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.exe
+H:\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.pdb
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.exe
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Debug\mySniffer.pdb

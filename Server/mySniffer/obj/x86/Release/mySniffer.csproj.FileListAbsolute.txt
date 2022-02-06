@@ -1,0 +1,7 @@
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\bin\Release\mySniffer.exe
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\bin\Release\mySniffer.pdb
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Release\mySniffer.Form1.resources
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Release\mySniffer.Properties.Resources.resources
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Release\mySniffer.csproj.GenerateResource.Cache
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Release\mySniffer.exe
+C:\Users\Liran\Desktop\Tal\וייצמן\Sniffer\mySniffer\mySniffer\obj\x86\Release\mySniffer.pdb
